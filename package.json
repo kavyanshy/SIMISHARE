@@ -1,0 +1,37 @@
+{
+  "name": "simishare",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@smui/button": "^7.0.0-beta.0",
+    "@svelte-put/shortcut": "^2.0.0",
+    "@sveltejs/vite-plugin-svelte": "^2.0.3",
+    "svelte": "^3.55.1",
+    "svelte-motion": "^0.11.5",
+    "vite": "^4.2.0"
+  },
+  "dependencies": {
+    "@svelteuidev/composables": "^0.10.0",
+    "@svelteuidev/core": "^0.10.0",
+    "@vime/core": "^5.4.0",
+    "@vime/svelte": "^5.4.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "framer-motion": "^10.6.0",
+    "hover-video-player": "^1.0.3",
+    "http-server": "^14.1.1",
+    "i": "^0.3.7",
+    "nodemon": "^2.0.22",
+    "npm": "^9.6.2",
+    "radix-icons-svelte": "^1.2.1",
+    "svelte-carousel": "^1.0.23",
+    "svelte-inview": "^4.0.0",
+    "svelte-routing": "^1.6.0"
+  }
+}
